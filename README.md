@@ -16,4 +16,3 @@ Apparel logistics analytics project focused on shipment performance, delivery de
 
 ---
 
-## 📊 Project Overview
